@@ -1,0 +1,1 @@
+ C:\\Users\\jimmy\\Documents\\mobileappdev\\millooommeter\\millometer_app2\\millometer_app\\.dart_tool\\flutter_build\\fb6ccd87446c52e44337a10d5319329c\\native_assets.yaml: 
